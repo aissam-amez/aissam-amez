@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aissam-amez my full name is aissam amezaourou
 - 👀 I’m interested in developping anything that could help others
-- 🌱 I’m currently learning react js and node js, flutter
+- 🌱 I’m currently learning react js, node js and flutter
 - 💞️ I’m looking to collaborate and learn something new and meet new people
 - 📫 How to reach me : <email>aissam.amezaourou@gmail.com</email>
 
